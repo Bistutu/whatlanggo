@@ -1,3 +1,3 @@
-module github.com/abadojack/whatlanggo
+module github.com/Bistutu/whatlanggo
 
-go 1.12
+go 1.21
